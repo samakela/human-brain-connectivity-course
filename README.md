@@ -18,4 +18,5 @@ The course web site (https://mycourses.aalto.fi/course/view.php?id=19534#section
 Well to be truthful, this goal isn't really separate from the main goal, but I'd really like to refresh my knowledge on complex networks and graph theory and also learn something new about them along with some good tools related to the subject.
 ![alt text](https://newmedialab.cuny.edu/wp-content/uploads/2014/01/Internet.gif "A somewhat complex network")
 
-Sorry, no table yet, because I wasn't able to get them working. :( But maybe I'll add one with a better time later on.
+Sorry, no that kind of table yet, because I wasn't able to get them working. :( But maybe I'll add one with a better time later on. However, here's a different kind of table in the meantime:
+![alt text](https://laughingsquid.com/wp-content/uploads/battable1.jpg)
