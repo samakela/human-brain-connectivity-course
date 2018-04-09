@@ -18,9 +18,4 @@ The course web site (https://mycourses.aalto.fi/course/view.php?id=19534#section
 Well to be truthful, this goal isn't really separate from the main goal, but I'd really like to refresh my knowledge on complex networks and graph theory and also learn something new about them along with some good tools related to the subject.
 ![alt text](https://newmedialab.cuny.edu/wp-content/uploads/2014/01/Internet.gif "A somewhat complex network")
 
-Since a table was compulsory, but I really ran out of imagination at this point, here's a table of tables currently visible to me, so actually several tables:
-| Table type  | Color       | 
-| ------------- |------------:| 
-| Living room | Dark brown  | 
-| Dinner      | Light brown | 
-| Kitchen     | Black       | 
+Sorry, no table yet, because I wasn't able to get them working. :( But maybe I'll add one with a better time later on.
