@@ -20,7 +20,7 @@ Well to be truthful, this goal isn't really separate from the main goal, but I'd
 
 Since a table was compulsory, but I really ran out of imagination at this point, here's a table of tables currently visible to me, so actually several tables:
 | Table type  | Color       | 
-|-------------|-------------| 
+| ------------- |------------:| 
 | Living room | Dark brown  | 
 | Dinner      | Light brown | 
 | Kitchen     | Black       | 
